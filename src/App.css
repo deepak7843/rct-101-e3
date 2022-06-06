@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+/* .login{
+  display: flex;
+} */
+
+
+
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+
+
 
 .App-logo {
   height: 40vmin;
